@@ -1,0 +1,39 @@
+#login-card{
+    background: linear-gradient(180deg, rgba(93, 67, 167, 0.9) 0%, rgba(109, 45, 148, 0.9) 100%);
+    backdrop-filter: blur(5px);
+    /* Note: backdrop-filter has minimal browser support */
+    border-radius: 7.2px;
+}
+
+.landing-page-container{
+    padding: 5%;
+}
+
+.landing-page-heading{
+    color: aliceblue;
+}
+
+.landing-page-text{
+    color: aliceblue;
+}
+
+.metamask{
+    padding-top: 5%;
+}
+
+.metamask-image{
+    height: 200px;
+}
+
+.metamask-text{
+    color: aliceblue;
+}
+
+.email-area{
+    padding-top: 5%;
+}
+
+.nft-button-area{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
